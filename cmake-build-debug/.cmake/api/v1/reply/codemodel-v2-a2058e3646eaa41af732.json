@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LabOS3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "keyboard_hooker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-keyboard_hooker-Debug-fce6e4967daee65f338f.json",
+					"name" : "keyboard_hooker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pid_teller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pid_teller-Debug-706c3a79a6502d6b37a3.json",
+					"name" : "pid_teller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_reader-Debug-65b16f01429e451946c9.json",
+					"name" : "process_reader",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug",
+		"source" : "/home/nsolonko/Projects/CLionProjects/LabOS3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

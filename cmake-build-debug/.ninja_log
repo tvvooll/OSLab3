@@ -1,0 +1,10 @@
+# ninja log v5
+577	674	1653561022871921360	pid_teller	1d7a69c36ac84924
+0	577	1653561022775912460	CMakeFiles/pid_teller.dir/pid_teller.cpp.o	c8b65c9cb0c8308
+0	528	1653562353392153399	CMakeFiles/process_reader.dir/process_reader.cpp.o	9bab875089d158f5
+528	626	1653562353492148457	process_reader	16aaa71ebd2ed4d5
+1	64	1653564056507999291	CMakeFiles/keyboard_hooker.dir/keyboard_hooker.cpp.o	d1730bcdc30bc5d3
+64	105	1653564056552000040	keyboard_hooker	54d57a6936bb7ba5
+1	35	1653564161237734429	build.ninja	9bdf5e76b1fd1e7f
+0	98	1653564161345736171	CMakeFiles/keyboard_hooker.dir/keyboard_hooker.c.o	ce7a5b152c5bdb35
+98	121	1653564161365736494	keyboard_hooker	9437b07a5c608bcc

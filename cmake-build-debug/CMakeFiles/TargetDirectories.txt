@@ -1,0 +1,5 @@
+/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug/CMakeFiles/pid_teller.dir
+/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug/CMakeFiles/process_reader.dir
+/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug/CMakeFiles/keyboard_hooker.dir
+/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nsolonko/Projects/CLionProjects/LabOS3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
